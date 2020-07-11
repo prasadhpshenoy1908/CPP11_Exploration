@@ -1,0 +1,3 @@
+﻿  CPP11Samples_2.cpp
+C:\Users\prasa\source\repos\CPP11Samples_2\CPP11Samples_2\CPP11Samples_2.cpp(56,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CPP11Samples_2.vcxproj -> C:\Users\prasa\source\repos\CPP11Samples_2\Debug\CPP11Samples_2.exe

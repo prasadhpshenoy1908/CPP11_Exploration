@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartPointers", "SmartPointers\SmartPointers.vcxproj", "{8C81045B-5B68-4FC3-BC86-619658FD3CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C81045B-5B68-4FC3-BC86-619658FD3CAE}.Debug|x64.ActiveCfg = Debug|x64
+		{8C81045B-5B68-4FC3-BC86-619658FD3CAE}.Debug|x64.Build.0 = Debug|x64
+		{8C81045B-5B68-4FC3-BC86-619658FD3CAE}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C81045B-5B68-4FC3-BC86-619658FD3CAE}.Debug|x86.Build.0 = Debug|Win32
+		{8C81045B-5B68-4FC3-BC86-619658FD3CAE}.Release|x64.ActiveCfg = Release|x64
+		{8C81045B-5B68-4FC3-BC86-619658FD3CAE}.Release|x64.Build.0 = Release|x64
+		{8C81045B-5B68-4FC3-BC86-619658FD3CAE}.Release|x86.ActiveCfg = Release|Win32
+		{8C81045B-5B68-4FC3-BC86-619658FD3CAE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {873F3A12-08FB-4F5F-A859-2C4B095B52A1}
+	EndGlobalSection
+EndGlobal
